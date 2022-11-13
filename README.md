@@ -6,3 +6,5 @@
 - 💬 联系方式：[eason-zz@outlook.com](eason-zz@outlook.com)
 
 [![eason](https://github-readme-stats.vercel.app/api?username=eason-zz)]()
+
+![github contribution grid snake animation](https://github.com/Eason-zz/Eason-zz/blob/output/github-contribution-grid-snake.svg)
