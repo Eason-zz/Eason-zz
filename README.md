@@ -7,7 +7,7 @@
 
 [![eason](https://github-readme-stats.vercel.app/api?username=eason-zz)]()
 
-![github contribution grid snake animation](https://github.com/Y4tacker/Y4tacker/blob/output/github-contribution-grid-snake.svg)
+
 
 # Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/eason-zz/count.svg)
