@@ -22,9 +22,7 @@
         </td>
     </tr>
 </table>
-<p align="left">
-  <img src="https://count.getloli.com/get/@eason-zz?theme=gelbooru" />
-</p>
+
 <table>
     <tr>
         <td >
