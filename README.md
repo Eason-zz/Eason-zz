@@ -4,7 +4,6 @@
 
 
 # Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/eason-zz/count.svg)
 
 <table>
     <tr>
