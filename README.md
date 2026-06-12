@@ -16,7 +16,7 @@
     </tr>
 </table>
 
-<table>
+<!-- <table>
     <tr>
         <td >
             <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eason-zz&theme=vue" ></center>
@@ -28,4 +28,4 @@
             <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eason-zz&theme=vue" align="right" /></center>
         </td>
     </tr>
-</table>
+</table> -->
